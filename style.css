@@ -1,0 +1,18 @@
+.bg {
+    background-image: url("https://ik.imagekit.io/9rldi0s2f8/mern/ACS_1332-768x1024.jpg?updatedAt=1718341723343");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.bg-card-container {
+    background-color: white;
+    width: 75vh;
+    text-align: center;
+    
+}
+.page2bg {
+    background-image: url("https://img.freepik.com/free-photo/blue-concrete-wall-textures-background_74190-6511.jpg?t=st=1718361847~exp=1718365447~hmac=10b93e2c3485215304fa09adb2550a16a7055441a717b9ae3d5867ec4e3303cf&w=900");
+    background-size: contain;
+    background-repeat: no-repeat;;
+}
